@@ -4,7 +4,8 @@ module.exports = {
 
 function getPeople() {
     return [
-        {id: 9, firstName: 'Aandres', lastName: 'Murillo', age: 30, location: 'Costa Rica'},
+        {id: 9, firstName: 'Andres', lastName: 'Murillo', age: 30, location: 'Costa Rica'},
+		{id: 10, firstName: 'Jeffry', lastName: 'Torres', age: 21, location: 'Costa Rica'},
 {id: 1, firstName: 'John', lastName: 'Papa', age: 25, location: 'Florida'},
         {id: 2, firstName: 'Ward', lastName: 'Bell', age: 31, location: 'California'},
         {id: 3, firstName: 'Colleen', lastName: 'Jones', age: 21, location: 'New York'},
